@@ -1,6 +1,6 @@
 # Nigeria-COVID-19-Data-Analysis-Using-Python
 Capstone Project in partial fulfilment of the Ustacky Data Science Microdegree
-https://github.com/Hil-dred/Nigeria-COVID-19-Data-Analysis-Using-Python/blob/main/ustacky_logo.jpg
+![](ustacky_logo.jpg)
 
 # Project Overview
 This project involves the analysis of Nigerian Covid19 Data from 28/02/2020 till date of analysis.
