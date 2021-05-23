@@ -21,9 +21,9 @@ This project involves the analysis of Nigerian Covid19 Data from 28/02/2020 till
 * The approach toward this project involved:
 	* Data Scraping
 	* Data Cleaning and Preparation:
-		• Data transformation
-		• Removing special characters
-		• Extracting Nigerian data from global John Hopkins Covid19 Data
+		* Data transformation
+		* Removing special characters
+		* Extracting Nigerian data from global John Hopkins Covid19 Data
 	* Visualization
 
 # Executive Summary
